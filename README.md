@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommy16102)](https://github.com/tommy16102/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy16102)](https://github.com/tommy16102/github-readme-stats)
+
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=tommy1610)](https://solved.ac/profile/tommy1610)
+
+
