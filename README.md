@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/react native-555555?style=for-the-badge&logo=react&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white"/>
 </div>
 
 ## 💻 Experience
